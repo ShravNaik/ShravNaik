@@ -1,5 +1,4 @@
-## 👋 Hello There, I'm
-# Shravan Naik
+# 👋 Hello There, I'm Shravan Naik
 ### B.Tech Information Technology undergrad (class of 2028) at PCCE, Verna | Honours in Data Science | AI & ML
 ---
 
