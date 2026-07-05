@@ -10,7 +10,7 @@ Currently i'am building python projects that are usefull in real-life.
 
 - [Email](mailto:naikshravan52@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shravan-naik-971062326)
-- Website (work in progress)
+- [Website](https://shravnaik.github.io/)
 ---
 
 # Skills:
